@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Sep 28 20:37:34 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "CARRYi" LOCATE = SITE "U15" LEVEL 1;
+COMP "OUTPUT" LOCATE = SITE "R20" LEVEL 1;
+COMP "CARRYo" LOCATE = SITE "T19" LEVEL 1;
+COMP "INVA" LOCATE = SITE "V8" LEVEL 1;
+COMP "A" LOCATE = SITE "U10" LEVEL 1;
+COMP "B" LOCATE = SITE "T9" LEVEL 1;
+COMP "F0" LOCATE = SITE "T14" LEVEL 1;
+COMP "F1" LOCATE = SITE "T16" LEVEL 1;
+COMP "ENA" LOCATE = SITE "U8" LEVEL 1;
+COMP "ENB" LOCATE = SITE "T15" LEVEL 1;
+SCHEMATIC END;
+

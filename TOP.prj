@@ -1,0 +1,4 @@
+vhdl work "Logic.vhd"
+vhdl work "FULLADDER.vhd"
+vhdl work "DECODER.vhd"
+vhdl work "TOP.vhd"

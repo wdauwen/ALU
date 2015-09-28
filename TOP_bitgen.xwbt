@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student/ALU/TOP.ncd
+OUTFILE=/home/student/ALU/TOP.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s700a-4fg484
+WORKINGDIR=/home/student/ALU
+LICENSE=WebPack
+USER_INFO=210935052_0_0_156

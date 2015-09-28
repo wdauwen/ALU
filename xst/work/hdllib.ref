@@ -1,0 +1,8 @@
+AR fulladder behavioral /home/student/ALU/FULLADDER.vhd sub00/vhpl04 1443464930
+EN logic NULL /home/student/ALU/Logic.vhd sub00/vhpl01 1443464927
+EN fulladder NULL /home/student/ALU/FULLADDER.vhd sub00/vhpl03 1443464929
+AR logic behavioral /home/student/ALU/Logic.vhd sub00/vhpl02 1443464928
+EN top NULL /home/student/ALU/TOP.vhd sub00/vhpl00 1443464933
+AR top behavioral /home/student/ALU/TOP.vhd sub00/vhpl07 1443464934
+AR decoder behavioral /home/student/ALU/DECODER.vhd sub00/vhpl06 1443464932
+EN decoder NULL /home/student/ALU/DECODER.vhd sub00/vhpl05 1443464931
