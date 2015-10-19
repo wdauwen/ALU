@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/student/ALU/impact.xsl
+OUTFILE=/home/student/ALU/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/student/ALU
+LICENSE=iMPACT
+USER_INFO=iMPACT
